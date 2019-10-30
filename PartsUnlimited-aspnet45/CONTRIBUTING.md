@@ -2,6 +2,7 @@
 
 One of the easiest ways to contribute is to participate in discussions and discuss issues. You can also contribute by submitting pull requests with code changes.
 
+
 ## General feedback, discussions, bugs, feature requests?
 Please start a discussion or log a new issue on the [Home repo issue tracker](https://github.com/Microsoft/PartsUnlimited/issues).
 
