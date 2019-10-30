@@ -25,7 +25,7 @@ jobs:
       run: |
         # If your function app project is not located in your repository's root
         # Please change your directory for dotnet build in pushd
-        pushd .
+        pushd ./PartsUnlimited-aspnet45/
         dotnet build --configuration Release --output ./output
         popd
 
